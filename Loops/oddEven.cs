@@ -15,6 +15,12 @@ namespace TestConsole1_Jan.Loops
      public void showNum(int k)
         {
             Console.WriteLine("Value={0}", k);
+
+        }
+        public void showSum(int k)
+        {
+            Console.WriteLine("Value={0}", k);
         }
     }
+
 }
